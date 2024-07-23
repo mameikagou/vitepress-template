@@ -29,6 +29,11 @@ export default defineConfig({
           { text: "Runtime API Examples", link: "/api-examples" },
         ],
       },
+      {
+        text:"根目录",
+        collapsed: false,
+        
+      }
     ],
 
     socialLinks: [
